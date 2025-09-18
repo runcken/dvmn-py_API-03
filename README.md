@@ -36,12 +36,6 @@ dotenv==0.9.9
 1. Put `.env` file near `main.py`.
 2. `.env` contains text data without quotes.
 
-For example, if you print `.env` content, you will see:
-
-```bash
-$ cat .env
-VK_ACCESS_TOKEN=v3.r.122857201.8f0cg543b36467ef22c8a234ae54290f700f836c.804fhh73cce5e8hgyr7n5c2397cgtracf570b7f2
-```
 
 #### How to get
 
